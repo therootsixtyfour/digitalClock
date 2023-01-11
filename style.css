@@ -8,6 +8,7 @@ body {
   justify-content: center;
   background: url(images/vercors.jpeg);
   background-size: cover;
+  overflow: hidden;
 }
 
 h2 {
